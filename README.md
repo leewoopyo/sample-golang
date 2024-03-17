@@ -8,3 +8,5 @@ command
     - go.mod 파일은 종속성을 관리하는 역활이다.
 - main 실행  
   - go run .
+- 외부 라이브러리 import
+  - go mod tidy
