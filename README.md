@@ -1,4 +1,4 @@
-# go-lang-start
+# sample-golang
 go language study
 
 command
